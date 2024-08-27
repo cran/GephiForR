@@ -1,0 +1,17 @@
+79cecffe4979c7da0d2f6f23de18d9fd *DESCRIPTION
+107f1734a0841e154ddb6a456ea0f1f3 *LICENSE
+0dbe06fb3703b71b547fc84be46d2a78 *NAMESPACE
+7e16ae9ca7436afb641cb344b265ba41 *R/ForceAtlas2.R
+8c22abbaabd9ec24375387995b65b3a4 *R/assign_edge_colors.R
+343d817031f7a8775984c1b03bd1de8d *R/assign_node_colors.R
+818007ecab1903a7f68d541aaf928df0 *R/easyplot.R
+f5d3ab929cf4bfc8a06c15f8a6b93e72 *R/rotate.R
+2716efff0f9f2176b5bce1be6bf12348 *R/scaling.R
+737de0fb59686277fd8ee8a036e93643 *build/partial.rdb
+6de1e517e0e048a84c085bc02423b673 *inst/REFERENCES.bib
+125bbd2b6148af11fc9cca079f8d870c *man/assign_edge_colors.Rd
+80a1cfc049bd07c88f8ac7e3c61539fe *man/assign_node_colors.Rd
+31c61cf68edf4b40990ae201c583a433 *man/easyplot.Rd
+7fae0920fff227c126d004abf16c3998 *man/layout.forceatlas2.Rd
+a8a2bebac5ae4a110af8602ade4d4690 *man/rotate_layout.Rd
+8b4f61b8c9c8fbda7fc516666b8192c3 *man/scale_node_positions.Rd
